@@ -19,7 +19,7 @@
 [Linkedin]: https://www.linkedin.com/in/jordi-schaefer/
 - 📮 How to reach me jschaefer21@gmail.com &nbsp;&nbsp;**/**&nbsp;&nbsp; [Linkedin]
 
-- 🏞 I am also addicted to hiking and biking 🚵‍♀️
+- 🏞 I'm also addicted to hiking and biking 🚵‍♀️
 
 
 
