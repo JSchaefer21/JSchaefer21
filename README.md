@@ -17,9 +17,10 @@
 - 🔧 All of my code available at [GitHub]
 
 [Linkedin]: https://www.linkedin.com/in/jordi-schaefer/
-- 📨 How to reach me jschaefer21@gmail.com / [Linkedin]
+- 📮 How to reach me jschaefer21@gmail.com &nbsp;&nbsp;**/**&nbsp;&nbsp; [Linkedin]
 
-&nbsp;
+- 🏞 I am also addicted to hiking and biking 🚵‍♀️
+
 
 
 <!--
