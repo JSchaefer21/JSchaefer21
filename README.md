@@ -14,7 +14,7 @@
 - 📺 My portfolio [jschaefer21.com]
 
 [GitHub]: https://github.com/JSchaefer21
-- 🔧 All of my code available at [GitHub]
+- 🔧 All my code available at [GitHub]
 
 [Linkedin]: https://www.linkedin.com/in/jordi-schaefer/
 - 📮 How to reach me jschaefer21@gmail.com &nbsp;&nbsp;**/**&nbsp;&nbsp; [Linkedin]
