@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, I'm Jordi Schaefer </h1>
-<h3 align="center"> Web developer from Barcelona </h3>
+<h3 align="center"> Frontend web developer from Barcelona </h3>
 
-💻 **Frontend:** HTML | CSS | SASS | Javascript | React | React-Native
+💻 **Frontend:** React | Javascript | Typescript | HTML | CSS | SASS
 
 👨‍💻 **Backend:** NodeJS | ExpressJS | MongoDB | Mongoose | SQL | API Restful
 
-🕵️‍♂️ **Other technologies:** GitHub | C++ | Phyton
+🕵️‍♂️ **Other technologies:** GitHub | C++ | Phyton | React-Native
 
 &nbsp;
 
