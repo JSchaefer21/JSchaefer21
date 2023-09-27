@@ -1,17 +1,17 @@
 <h1 align="center"> Hi there 👋, I'm Jordi Schaefer </h1>
-<h3 align="center"> Frontend web developer from Barcelona </h3>
+<h3 align="center"> Frontend developer from Barcelona </h3>
 
-💻 **Frontend:** React | Javascript | Typescript | HTML | CSS | SASS
+💻 **Frontend:** React | Javascript | Typescript | HTML | CSS-SASS
 
 👨‍💻 **Backend:** NodeJS | ExpressJS | MongoDB | Mongoose | SQL | API Restful
 
-🕵️‍♂️ **Other technologies:** GitHub | C++ | Phyton | React-Native
+🕵️‍♂️ **Other technologies:** GitHub | C++ | Phyton
 
 &nbsp;
 
 #
-[jschaefer21.com]: https://www.jschaefer21.com
-- 📺 My portfolio [jschaefer21.com]
+[jschaefer]: https://jschaefer.vercel.app/
+- 📺 My portfolio [jschaefer]
 
 [GitHub]: https://github.com/JSchaefer21
 - 🔧 All my code available at [GitHub]
